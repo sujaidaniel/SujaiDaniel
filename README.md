@@ -1,4 +1,4 @@
-# Sujai Daniel Pallapati  
+#Daniel
 
 ## 📞 Contact  
 - **Phone:** (716)-270-9061  
