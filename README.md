@@ -38,19 +38,11 @@ I am a Data Engineer with expertise in building and optimizing data pipelines us
 
 **Master of Professional Studies, Data Sciences and Applications**  
 University at Buffalo, State University of New York  
-GPA: 3.96/4.0 | Dec 2023  
+GPA: 3.96/4.0 
 
 **Bachelor of Technology, Computer Science and Engineering**  
 Keshav Memorial Institute of Technology (Affiliated to JNTUH)  
-GPA: 3.5/4.0 | Jul 2022  
-
----
-
-## 🏆 Certifications  
-- **Google Data Analytics Certification**  
-- **Tableau Desktop Specialist**  
-- **AWS Certified Cloud Practitioner**  
-
+GPA: 3.5/4.0 
 ---
 
 ## 🚀 Let's Connect!  
