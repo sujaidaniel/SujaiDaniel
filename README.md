@@ -2,13 +2,13 @@
 
 ## 📞 Contact  
 - **Phone:** (716)-270-9061  
-- **Email:** [sujaidan@buffalo.edu](mailto:sujaidan@buffalo.edu)  
+- **Email:** [sujaidaniel03@gmail.com](mailto:sujaidaniel03@gmail.com)  
 
 
 ---
 
 ## 📝 Summary  
-I am a Data Engineer with expertise in building and optimizing data pipelines using AWS, Apache Airflow, SQL, and Python. My focus lies in real-time data integration, cloud migration, and improving data accessibility with platforms like Redshift, S3, and Snowflake. I specialize in streamlining ETL workflows, boosting query performance, and ensuring high-quality data processing for actionable insights.
+Software Development Engineer with experience in building scalable, high-performance systems. Expertise in microservices architecture, CI/CD pipelines, and optimizing application performance. Proven track record of improving efficiency, reducing deployment time by 50%, and achieving 95% code coverage.
 
 ---
 
@@ -38,11 +38,9 @@ I am a Data Engineer with expertise in building and optimizing data pipelines us
 
 **Master of Professional Studies, Data Sciences and Applications**  
 University at Buffalo, State University of New York  
-GPA: 3.96/4.0 
 
 **Bachelor of Technology, Computer Science and Engineering**  
 Keshav Memorial Institute of Technology (Affiliated to JNTUH)  
-GPA: 3.5/4.0 
 ---
 
 ## 🚀 Let's Connect!  
