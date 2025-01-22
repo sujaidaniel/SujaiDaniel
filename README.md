@@ -34,14 +34,5 @@ Software Development Engineer with experience in building scalable, high-perform
 
 ---
 
-## 🎓 Education  
-
-**Master of Professional Studies, Data Sciences and Applications**  
-University at Buffalo, State University of New York  
-
-**Bachelor of Technology, Computer Science and Engineering**  
-Keshav Memorial Institute of Technology (Affiliated to JNTUH)  
----
-
 ## 🚀 Let's Connect!  
 Feel free to reach out if you're interested in my work or have exciting opportunities to collaborate.  
