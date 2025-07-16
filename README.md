@@ -1,7 +1,6 @@
 # Daniel
 
 ## 📞 Contact  
-- **Phone:** (716)-270-9061  
 - **Email:** [sujaidaniel03@gmail.com](mailto:sujaidaniel03@gmail.com)  
 
 
